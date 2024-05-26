@@ -1,0 +1,30 @@
+
+    .container {
+        background-color: #d7e1e7;
+        border-radius: 1rem;
+        display: flex;
+        gap: 4rem;
+        height: 30rem;
+        margin: 0 auto;
+        padding: 4rem;
+        width: 50rem;
+      }
+
+      .poster {
+         border:8px solid black
+      }
+
+      .container h2 {
+        color:blue;
+        font-size: larger;
+      }
+
+      /* .container button {
+        color: green;
+        background-color: red;
+      } */
+
+      .botao {
+        background-color: grey;
+        color: green ;
+      }
