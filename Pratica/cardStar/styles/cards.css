@@ -8,6 +8,7 @@
         margin: 0 auto;
         padding: 4rem;
         width: 50rem;
+        margin-top: 3rem;
       }
 
       .poster {
@@ -25,6 +26,10 @@
       } */
 
       .botao {
-        background-color: grey;
-        color: green ;
+        background-color:black;
+        color: white ;
+        border-radius: 5px;
+        height: 2rem;
+        width: 7rem;
+        margin-top: 10px;
       }
